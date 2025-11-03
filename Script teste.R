@@ -9,3 +9,7 @@ y = c(3,7,6,12)
 
 #calculando a correlação
 cor(x,y)
+
+#testando em casa 
+z = c(4,5,77,2)
+media = (x+y+z)/3
